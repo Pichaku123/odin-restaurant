@@ -31,7 +31,7 @@ menuItems.forEach((item) => {
   const card = document.createElement("div");
   card.classList.add("menu-item");
 
-  const itemName = document.createElement("h3");
+  const itemName = document.createElement("h2");
   itemName.textContent = item.name;
 
   const itemDesc = document.createElement("p");

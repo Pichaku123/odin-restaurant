@@ -19,7 +19,7 @@ const slogan=document.createElement("p");
 slogan.classList.add("slogan");
 slogan.innerHTML="A new twist on an old classic, Wanmin restaurant welcomes you!<br>";
 
-contents.appendChild(logo);
+// contents.appendChild(logo);
 contents.appendChild(title);
 contents.appendChild(para);
 contents.appendChild(slogan);
